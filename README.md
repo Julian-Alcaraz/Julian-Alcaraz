@@ -1,6 +1,6 @@
 # Hi. I'm Julian Alcaraz
 ## About me  🧑‍💻
-   I am 21 years old and I am a Web Developer. I graduated as a University Technician in web development in 2024 (UNCO) in Argentina. 
+   I am 22 years old and I am a Web Developer. I graduated as a University Technician in web development in 2024 (UNCO) in Argentina. 
    I am currently a developer of the Municipal Social Security Institute (IMPS) of Neuquén since the end of 2023.
    I am looking for freelance opportunities to continue growing as a developer.
 ### My social networks
