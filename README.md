@@ -1,8 +1,8 @@
 # Hi. I'm Julian Alcaraz
 ## About me  🧑‍💻
    I am 22 years old and I am a Web Developer. I graduated as a University Technician in web development in 2024 (UNCO) in Argentina. 
-   I am currently a developer of the Municipal Social Security Institute (IMPS) of Neuquén since the end of 2023.
-   I am looking for freelance opportunities to continue growing as a developer.
+   I worked as developer of the Municipal Social Security Institute (IMPS) of Neuquén since the end of 2023 to october 2025.
+   I am currently working as a developer at Ceibustech.
 ### My social networks
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julian-alcaraz-33084b282/)
 [<img src="https://img.shields.io/github/followers/Julian-Alcaraz?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Julian-Alcaraz)
